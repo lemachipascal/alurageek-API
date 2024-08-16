@@ -165,14 +165,6 @@
       "location": "Mombasa,County",
       "rating": 4.2,
       "address": "Mombasa Beach, Mombasa, Mombasa County, Kenya"
-    },
-    {
-      "id": "b2d1",
-      "name": "Swimming",
-      "description": "deee",
-      "location": "Mombasa",
-      "price": "58",
-      "image": "https://cdn.pixabay.com/photo/2020/04/17/12/28/pool-5055009_1280.jpg"
     }
   ],
   "parks": [
@@ -265,22 +257,6 @@
       "location": "Nakuru County",
       "rating": 4.1,
       "address": "Lake Bogoria National Park, Nakuru County, Kenya"
-    },
-    {
-      "id": "4b60",
-      "name": "Swimming",
-      "description": "dfesfds\n",
-      "location": "Mombasa",
-      "price": "-24",
-      "image": "https://cdn.pixabay.com/photo/2020/04/17/12/28/pool-5055009_1280.jpg"
-    },
-    {
-      "id": "7c7f",
-      "name": "Swimming",
-      "description": "dfesfds\n",
-      "location": "Mombasa",
-      "price": "-24",
-      "image": "https://cdn.pixabay.com/photo/2020/04/17/12/28/pool-5055009_1280.jpg"
     }
   ]
 }
